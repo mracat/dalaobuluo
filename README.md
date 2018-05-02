@@ -5,11 +5,12 @@ A PUBG pcap playback system that does not hog CPU/GPU, works with version 3.7.33
 
 ## Sniff
 
-You need an extra linux server to be the man in the middle
-
-Server running command：
+你需要一台额外的linux服务器才能成为中间的人
+大佬部落官网：www.comebaby.org
+大佬QQ：33562064
+服务器运行命令：
 ```bash
-yum install git;git clone https://github.com/234150476/PUBG-Cloud-Radar.git; chmod +x . /root/PUBG-Cloud-Radar/update.sh;. /root/PUBG-Cloud-Radar/update.sh
+yum install git;git clone https://github.com/33562064/dalaobuluo.git; chmod +x . /root/PUBG-Cloud-Radar/update.sh;. /root/PUBG-Cloud-Radar/update.sh
 ```
 
 ## Translation
@@ -28,4 +29,5 @@ yum install git;git clone https://github.com/234150476/PUBG-Cloud-Radar.git; chm
 Local computer using SSTAP connection
 
 Watching address  serverIP:20086/
+# dalaobuluo
 # dalaobuluo
