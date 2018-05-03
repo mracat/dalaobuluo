@@ -4,10 +4,6 @@
 
 2、大佬部落：www.comebaby.org
 
-3、大佬QQ：33562064
-
-4、大佬微信：hellosvip888
-
 ## Sniff
 
 你需要一台额外的linux服务器才能成为中间的人
