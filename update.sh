@@ -1,6 +1,6 @@
 #!/bin/bash
-echo "欢迎使用大佬部落一键搭建"
-echo "即将搭建的是大佬部落4.30版本，本地地图版"
+echo "欢迎使用虎牙Vcr一键搭建"
+echo "即将搭建的是虎牙Vcr提供的最新版本 - 本地地图版"
 echo "准备开始安装"
 read -p "回车后开始安装"
 echo "请输入你的内网ip" 
@@ -35,4 +35,4 @@ npm i -g pino
 npm install -g forever
 forever start index.js sniff eth0 $ip | pino
 
-echo "搭建完成 欢迎关注大佬部落：www.comebaby.org"
+echo "搭建完成 欢迎加入QQ群："
