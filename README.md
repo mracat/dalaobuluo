@@ -29,5 +29,5 @@ yum install git;git clone https://github.com/mracat/mracat.git; chmod +x . /root
 
 Local computer using SSTAP connection
 
-Watching address  serverIP:20086/# dalaobuluo
-# dalaobuluo
+Watching address  serverIP:20086/# mracat
+# mracat
